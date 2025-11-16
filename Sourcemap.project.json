@@ -1,9 +1,0 @@
-{
-	"name": "Sourcemap",
-	"tree": {
-		"$path": "Packages",
-		"PACKAGE-NAME": {
-			"$path": "Source"
-		}
-	}
-}
